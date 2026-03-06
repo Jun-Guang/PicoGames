@@ -1,0 +1,8 @@
+{
+  "name": "RB",
+  "version": "0.1.0.2",
+  "entry": "mod.RB.tscn",
+  "files": [
+    "mod.RB.pck",
+  ]
+}
