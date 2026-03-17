@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0.1",
-  "last_updated": "2025-09-09T06:24:00Z",
+  "version": "0.0.0.2",
+  "last_updated": "2026-03-17T02:00:00Z",
   "games": [
     {
       "gameId": "1",
@@ -22,9 +22,9 @@
       "gameId": "3",
       "id": "RT",
       "name": "Red Tour",
-      "version": "0.1.39.0",
+      "version": "0.2.0.2",
       "description": "紅狐遊旅",
-      "download_url": "https://raw.githubusercontent.com/Jun-Guang/PicoGames/main/uf2/RT.uf2"
+      "download_url": "https://raw.githubusercontent.com/Jun-Guang/PicoGames/main/uf2/RedTour_0_2_1_2.uf2"
     }
   ]
 }
