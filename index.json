@@ -6,7 +6,7 @@
       "gameId": "1",
       "id": "RB",
       "name": "Rabbit",
-      "version": "0.10.36.10",
+      "version": "0.9.36.10",
       "description": "兔子工人",
       "download_url": "https://raw.githubusercontent.com/Jun-Guang/PicoGames/main/uf2/RB.uf2"
     },
@@ -14,7 +14,7 @@
       "gameId": "2",
       "id": "AQ",
       "name": "Aquarium",
-      "version": "0.1.31.1",
+      "version": "0.2.31.1",
       "description": "專注水族箱",
       "download_url": "https://raw.githubusercontent.com/Jun-Guang/PicoGames/main/uf2/AQ.uf2"
     },
